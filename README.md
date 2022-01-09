@@ -1,2 +1,0 @@
-# MBSite hello world
-hello
